@@ -1,2 +1,2 @@
 # middlewarePattern
-study on middleware pattern with node.js
+initial study on middleware pattern with node.js
